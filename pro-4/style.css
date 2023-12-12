@@ -1,0 +1,127 @@
+.col-lg-6{
+    color:green;
+    /* border-bottom: solid green; */
+    font-weight: 700;
+    font-size: 50px;
+}
+
+
+.container{
+    padding: 10px;
+    margin: 10px;
+    /* border-bottom: solid green; */
+    
+}
+.hs{
+    text-align: center;
+    font-weight: 700;
+    color: green;
+    font-size: 40px;
+}
+.ha{
+    text-align: center;
+}
+.hd{
+    text-align: start;
+}
+
+.card{
+    border: 0px;
+}
+
+.pp{
+    text-align: start;
+    font-size: 20px;
+    color: rgb(61, 61, 61);
+    font-weight: 5;
+
+    /* border: 1px solid rgb(0, 0, 0); */
+}   
+
+.mob{
+    background-image: url(img/mobile2.png);
+    padding: 90px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 600px;
+    padding-right: 450px;
+    /* border: 1px solid rgb(0, 0, 0); */
+}
+
+.hj{
+    color: black;
+}
+
+.hk{
+    padding: 150px  ;
+}
+
+.fa{
+    text-align: center;
+    font-size: 60px;
+    color: green;
+}
+.ta{
+    font-size: 15px;
+    padding: 35px;
+    color: black;
+}
+.po{
+    font-size: 15px;
+    color: black;
+}
+
+.ki{
+    border-radius: 50%;
+
+}
+.pc{
+    background-color: green;
+    height: 130px;
+    text-align: center;
+    
+}
+
+.hii{
+    text-align: center;
+    color: green;
+    font-size: 50px;
+}
+
+.pl{
+    /* padding: 30px; */
+    color: white;
+    font-size: 40px;
+    text-align: start;
+ 
+}
+
+.d-flex{
+border: 2px solid white;
+background-color: green;
+} 
+
+.ppt{
+    /* border: 2px solid black; */
+    text-align: left;
+    margin: 13px;
+    
+}
+.pop{
+    font-size: 15px;
+    padding: 10px;
+    
+
+}
+.container-form{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    color: black;
+}
+
+.form{
+    background-image: url(img/banner-new.jpg);   
+ }
+
